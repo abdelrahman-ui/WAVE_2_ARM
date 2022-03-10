@@ -1,0 +1,6 @@
+RCC_prog.c:47:6:MRCC_vEnableClock	16	static
+RCC_prog.c:73:6:MRCC_vDisableClock	16	static
+RCC_prog.c:92:6:MRCC_vEnableSecuritySystem	4	static
+RCC_prog.c:103:6:MRCC_vDisableSecuritySystem	4	static
+RCC_prog.c:117:6:MRCC_vInitSystemCLK	4	static
+RCC_prog.c:188:6:MRCC_vInitClock	16	static

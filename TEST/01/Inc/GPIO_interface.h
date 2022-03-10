@@ -111,7 +111,7 @@ void MGPIO_vWriteData(u8 Copy_u32PortName ,u8 Copy_u8PinNum ,u8 Copy_u8State);
 /*===============   7-Function To Locked   ===============*/
 void MGPIO_vPinLock(u8 Copy_u8PortNum ,u8 Copy_u8PinNum );
 /*===============   7-Function To Set ALTF   ===============*/
-void MGPIO_vSetPinAltFn( u8 Copy_u8PortNum ,u8 Copy_u8PinNum, u8 Copy_u8ALF )
+void MGPIO_vSetPinAltFn( u8 Copy_u8PortNum ,u8 Copy_u8PinNum, u8 Copy_u8ALF );
 /*==========================================================================================================*/
 
 #endif //_GPIO_INTERFACE_H
